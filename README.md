@@ -32,14 +32,6 @@ RATEL/
     └── membres/            # Photos des membres
 ```
 
-## Fonctionnalités
-
-- Design responsive (mobile, tablette, desktop)
-- Navigation fluide entre les sections
-- Sliders pour les membres et les dojos
-- Section interactive "4 étapes"
-- Formulaire de contact
-- Animations au scroll
 
 ## Propriété
 
