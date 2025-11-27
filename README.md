@@ -8,8 +8,8 @@ Site web présentant le club de Jiu-Jitsu Brésilien RATEL TEAM basé à Rennes.
 
 ## Technologies utilisées
 
-- **HTML5** - Structure du site
-- **CSS3** - Styles et design responsive
+- **HTML** - Structure du site
+- **CSS** - Styles et design responsive
 - **JavaScript** - Interactivité et animations
 
 ## Structure du projet
