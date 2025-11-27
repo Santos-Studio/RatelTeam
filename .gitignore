@@ -3,22 +3,3 @@
 Thumbs.db
 desktop.ini
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Logs
-*.log
-npm-debug.log*
-
-# Dependencies (si vous en ajoutez plus tard)
-node_modules/
-package-lock.json
-
-# Fichiers temporaires
-*.tmp
-*.temp
-
